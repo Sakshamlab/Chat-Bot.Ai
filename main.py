@@ -1,4 +1,4 @@
-from langchain.document_loaders import UnstructuredURLLoader
+
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 from langchain.llms.huggingface_hub import HuggingFaceHub
